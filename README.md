@@ -11,7 +11,7 @@ O dataset utilizado foi publicado através de uma pesquisa com o intuito de ampl
 O [dataset original](https://github.com/ArmandoToda/Paper_SBIE2023) pode ser encontrado no repositório do autor no github.
 
 ## Metodologia
-Criamos o repositório e arquivo jupyter para executar as etapas de mineração necessárias para busca de regras de associação:
+Criei o repositório e arquivo jupyter para executar as etapas de mineração necessárias para busca de regras de associação:
 - Definição de variáveis para operação do projeto
 - Obtenção do dataset
 - Preparação dos dados (em desenvolvimento)
