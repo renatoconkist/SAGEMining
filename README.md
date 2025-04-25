@@ -10,6 +10,8 @@ O dataset utilizado foi publicado através de uma pesquisa com o intuito de ampl
 
 O [dataset original](https://github.com/ArmandoToda/Paper_SBIE2023) pode ser encontrado no repositório do autor no github.
 
+> Essa documentação também está disponível no [documento jupyter](SAGEMining.ipynb)
+
 ## Metodologia
 Criei o repositório e arquivo jupyter para executar as etapas de mineração necessárias para busca de regras de associação:
 - Definição de variáveis para operação do projeto
