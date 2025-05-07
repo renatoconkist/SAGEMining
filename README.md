@@ -16,8 +16,12 @@ O [dataset original](https://github.com/ArmandoToda/Paper_SBIE2023) pode ser enc
 Criei o repositório e arquivo jupyter para executar as etapas de mineração necessárias para busca de regras de associação:
 - Definição de variáveis para operação do projeto
 - Obtenção do dataset
-- Preparação dos dados (em desenvolvimento)
-- Execução do algoritmo apriori (em desenvolvimento)
+- Preparação dos dados
+- Filtro de Canônicos (opcional)
+- Binarização de dataset
+- Execução do algoritmo apriori
 
 ## Resultados
-Em desenvolvimento
+Para uma melhor compreensão dos agrupamentos de dados e sua relevância, decidi fazer um plotting das associações obtidas com base nos eixos X,Y,Z representando os valores de Confidence, Lift e Certainty.
+
+Com um suporte mínimo de 0.3 e confiança mínima de 0.7, mais de 500 resultados foram encontrados.
