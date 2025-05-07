@@ -22,6 +22,16 @@ Criei o repositório e arquivo jupyter para executar as etapas de mineração ne
 - Execução do algoritmo apriori
 
 ## Resultados
-Para uma melhor compreensão dos agrupamentos de dados e sua relevância, decidi fazer um plotting das associações obtidas com base nos eixos X,Y,Z representando os valores de Confidence, Lift e Certainty.
-
 Com um suporte mínimo de 0.3 e confiança mínima de 0.7, mais de 500 resultados foram encontrados.
+Classificações que passam no suporte mínimo
+- gender_male, gender_female
+- age_group_15-24, age_group_25-34
+- country_us
+- years_playing_10-20
+- time_per_week_<5, time_per_week_5-15
+- game_genre_role playing game
+- setting_multiplayer_False, setting_multiplayer_True
+
+Para uma melhor compreensão dos agrupamentos de dados e sua relevância, decidi fazer um plotting das associações obtidas com base nos eixos X,Y representando os valores de Confidence e Certainty com coloração de Lift.
+
+Nos resultados podemos observar uma forte presença de atributos como progressão e objetivo. Isso reflete diretamente em boa parte das associações apresentadas.
